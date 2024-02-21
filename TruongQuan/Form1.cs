@@ -15,6 +15,7 @@ namespace TruongQuan
         public Form1()
         {
             //p-phamvotruongquan
+            //update 1
             InitializeComponent();
         }
     }
