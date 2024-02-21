@@ -14,8 +14,8 @@ namespace TruongQuan
     {
         public Form1()
         {
-            //pham vo truong quan 2 update
             InitializeComponent();
+            //thai bao nhan
         }
     }
 }
