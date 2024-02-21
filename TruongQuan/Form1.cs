@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,6 +14,8 @@ namespace TruongQuan
     {
         public Form1()
         {
+            //p-phamvotruongquan
+            //update 1
             InitializeComponent();
             //thai bao nhan
         }
